@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfOSProcess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfOSProcess",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
