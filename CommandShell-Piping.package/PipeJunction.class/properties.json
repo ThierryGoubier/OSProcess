@@ -1,0 +1,16 @@
+{
+	"category" : "CommandShell-Piping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pipeToInput",
+		"pipeFromOutput",
+		"errorPipelineStream" ],
+	"name" : "PipeJunction",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

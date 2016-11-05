@@ -1,0 +1,18 @@
+{
+	"category" : "CommandShell-Piping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pipeFromError",
+		"processProxy",
+		"keepInitialStdOutOpen",
+		"keepInitialStdErrOpen",
+		"accessProtect" ],
+	"name" : "PipeableOSProcess",
+	"pools" : [
+		 ],
+	"super" : "PipeJunction",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "CommandShell-Piping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dtl 2/1/2003 16:58",
+	"instvars" : [
+		"expression",
+		"evaluationBlock" ],
+	"name" : "ExpressionEvaluator",
+	"pools" : [
+		 ],
+	"super" : "PipeableEvaluator",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "CommandShell-Piping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dtl 12/13/2002 19:30",
+	"instvars" : [
+		"commandLine",
+		"background",
+		"completionSemaphore",
+		"completionWatcher" ],
+	"name" : "ProxyPipeline",
+	"pools" : [
+		 ],
+	"super" : "OrderedCollection",
+	"type" : "normal" }

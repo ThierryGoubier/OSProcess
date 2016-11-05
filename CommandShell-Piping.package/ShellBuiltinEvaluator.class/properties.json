@@ -1,0 +1,15 @@
+{
+	"category" : "CommandShell-Piping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dtl 2/1/2003 17:47",
+	"instvars" : [
+		"shellBuiltin",
+		"commandShell" ],
+	"name" : "ShellBuiltinEvaluator",
+	"pools" : [
+		 ],
+	"super" : "PipeableEvaluator",
+	"type" : "normal" }

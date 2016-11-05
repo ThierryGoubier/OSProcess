@@ -1,0 +1,17 @@
+{
+	"category" : "CommandShell-Piping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dtl 2/1/2003 16:56",
+	"instvars" : [
+		"argumentArray",
+		"runState",
+		"exitStatus",
+		"outputHasBeenRedirected" ],
+	"name" : "PipeableEvaluator",
+	"pools" : [
+		 ],
+	"super" : "PipeJunction",
+	"type" : "normal" }
