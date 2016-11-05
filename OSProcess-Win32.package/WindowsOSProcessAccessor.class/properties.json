@@ -1,0 +1,16 @@
+{
+	"category" : "OSProcess-Win32",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sigChldSemaphore",
+		"semaIndex",
+		"childWatcherThread" ],
+	"name" : "WindowsOSProcessAccessor",
+	"pools" : [
+		 ],
+	"super" : "OSProcessAccessor",
+	"type" : "normal" }
